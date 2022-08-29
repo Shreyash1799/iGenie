@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       <button><Link href={'/onboard'} >Take Interview</Link></button>
       <button><Link href={'/history'} >Interview History</Link></button>
       <button><Link href={'/library'} >Question Library</Link></button>
-      <button><Link href={'checking'} >Answer the Questions</Link></button>
+      <button><Link href={'/checking'} >Answer the Questions</Link></button>
     </div>
   )
 }

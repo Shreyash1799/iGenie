@@ -29,16 +29,20 @@ const Home: NextPage = () => {
         </span>
         } */}
         
-        <div><Link href={'/interviewConnect'} >
-        <button className='rdabba' >
+        <div><Link href={'/checking'} >
+        <button className='Odabba' >
             <b>Laura Norda</b>
             <p></p>
             <span>
                 <p><i  style={{color: "gray"}}>Difficulty Level &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     Experience</i>
                 <b>     Tough   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     16</b></p>
             </span>
+            <p style={{color:"red"}}>24</p>
+            <p>answered 01/04</p>
         </button>
         </Link></div>
+        
+        
        
 
        
